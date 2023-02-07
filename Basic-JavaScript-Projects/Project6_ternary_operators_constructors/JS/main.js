@@ -14,11 +14,6 @@ function newFunction() {   //assigned a function
     document.getElementById("New_and_This").innerHTML = E; //this will return the string on the browser
 }
 
-function funcOne() { //assigned a function
-    var B = float; // assigned a variable the value of a reserved word
-    document.getElementById("fl").innerHTML = B; //this didn't return anything to the browser
-}
-
 function Student(first, last, grade, gradeAv) { //assigned my function constructor 
     this.firstName = first;                     //assigned firstName and gave it a value first
     this.lastName = last;                       //assigned lastName and gave it a value last
