@@ -25,7 +25,7 @@ td {
     padding: 0px;
     width: 200px;
     height: 200px;
-    filter: contrast(1);
+    filter: none;
 }
 
 
